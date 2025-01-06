@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">storyapp</string>
+
+        <string name="image_preview">Image Preview</string>
+        <string name="select_image">Select Image</string>
+        <string name="add_description">Add a Description</string>
+        <string name="upload_story">Upload Story</string>
+    <string name="error_password_too_short">Password harus terdiri dari minimal 8 karakter.</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="profile">Profile</string>
+    <string name="add_story" />
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">\n</string>
+    <string name="satellite_type">\n</string>
+    <string name="terrain_type" />
+    <string name="hybrid_type" />
+    <string name="google_maps_api_key">AIzaSyB8wyv1hBTx8KxJAsoFf9BXkgvCiEGJ8pE</string>
+
+</resources>
